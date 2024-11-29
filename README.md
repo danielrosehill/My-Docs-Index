@@ -1,4 +1,5 @@
-![alt text](images/docs-index.png)
+![Banner](https://res.cloudinary.com/drrvnflqy/image/upload/v1732904202/docs-index_fy8ula.png)
+
 
 Note: links are to my [docs website](https://docs.bydanielrosehill.com) which pulls its content from the repositories shared here.
 
