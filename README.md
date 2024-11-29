@@ -124,9 +124,11 @@ A list of some of the repositories contained is here:
 
 
 [Changelog](https://docs.bydanielrosehill.com/repos/misc/changelog/)  
+
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/changelog/)
 
 [Docs Templates](https://docs.bydanielrosehill.com/repos/documentation/doc-templates/)  
+
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/documentation/doc-templates/)
 
 ---
