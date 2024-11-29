@@ -65,9 +65,9 @@ A list of some of the repositories contained is here:
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)
 
-[!LLM Tools](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)      
+[!VS Code LLM Tools](https://github.com/danielrosehill/VS-Code-LLM-Tools)      
 
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://github.com/danielrosehill/VS-Code-LLM-Tools)
 
 ### Prompt Management, Prompt Engineering
 
