@@ -742,6 +742,14 @@ WAQI Stations in Israel
 
 ---
 
+## Wiki
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Wiki)
+
+Wiki
+
+---
+
 ## Workstation Specs
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Workstation-Specs)
