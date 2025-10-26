@@ -302,6 +302,30 @@ IDF Home Front Command Red Alert syntax
 
 ---
 
+## Israel Rocket Shelter Guidelines
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Israel-Rocket-Shelter-Guidelines)
+
+Israel Rocket Shelter Guidelines
+
+---
+
+## Jerusalem Tech Companies
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Jerusalem-Tech-Companies)
+
+Jerusalem Tech Companies
+
+---
+
+## Just Some AI App Ideas
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Just-Some-AI-App-Ideas)
+
+Just Some AI App Ideas
+
+---
+
 ## Keyboard Shortcuts Ref
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Keyboard-Shortcuts-Ref)
@@ -323,6 +347,198 @@ Kscreen Config
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/llm-workflow/)
 
 LLM & Prompt Engineering Workflow documentation
+
+---
+
+## LLM API Price Estimates
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-API-Price-Estimates)
+
+LLM API Price Estimates
+
+---
+
+## LLM Attribution Badges
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Attribution-Badges)
+
+LLM Attribution Badges
+
+---
+
+## LLM Experiment Notebook
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Experiment-Notebook)
+
+LLM Experiment Notebook
+
+---
+
+## LLM Max Token Length 0225
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Max-Token-Length-0225)
+
+LLM Max Token Length 0225
+
+---
+
+## LLM Output Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Output-Notes)
+
+LLM Output Notes
+
+---
+
+## LLM Use Case Self Ideation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Use-Case-Self-Ideation)
+
+LLM Use Case Self Ideation
+
+---
+
+## LLM Workflow Documentation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Workflow-Documentation)
+
+LLM Workflow Documentation
+
+---
+
+## Long AI Prompting Experiment
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Long-AI-Prompting-Experiment)
+
+Long AI Prompting Experiment
+
+---
+
+## Master Backup Strategy
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Master_Backup_Strategy)
+
+Master Backup Strategy
+
+---
+
+## My AI Stack
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-AI-Stack)
+
+My AI Stack
+
+---
+
+## My LLM KM Idea
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-LLM-KM-Idea)
+
+My LLM KM Idea
+
+---
+
+## My Principles Of Prompting
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-Principles-Of-Prompting)
+
+My Principles Of Prompting
+
+---
+
+## My Thoughts On Tech
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/My-Thoughts-On-Tech)
+
+My Thoughts On Tech
+
+---
+
+## Open Letters
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Open-Letters)
+
+Open Letters
+
+---
+
+## Perplexity Security 1224
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Perplexity-Security-1224)
+
+Perplexity Security 1224
+
+---
+
+## Personal Context Repo Idea
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Repo-Idea)
+
+Personal Context Repo Idea
+
+---
+
+## Personal Context Store Ideation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Context-Store-Ideation)
+
+Personal Context Store Ideation
+
+---
+
+## Personal RAG Agent Workflow
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-RAG-Agent-Workflow)
+
+Personal RAG Agent Workflow
+
+---
+
+## Prompts And Outputs
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Prompts-And-Outputs)
+
+Prompts And Outputs
+
+---
+
+## Prototypes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Prototypes)
+
+Prototypes
+
+---
+
+## Tech Ideas
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Tech-Ideas)
+
+Tech Ideas
+
+---
+
+## Test Markdown Docs
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Test-Markdown-Docs)
+
+Test Markdown Docs
+
+---
+
+## The Jerusalem Odyssey Text
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/The-Jerusalem-Odyssey-Text)
+
+The Jerusalem Odyssey Text
+
+---
+
+## USB Foot Mouse Linux
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/USB-Foot-Mouse-Linux)
+
+USB Foot Mouse Linux
 
 ---
 
