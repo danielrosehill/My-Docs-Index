@@ -6,132 +6,244 @@ Note: links are to my [docs website](https://docs.bydanielrosehill.com) which pu
 
 # Documentation Repositories, Index
 
-I use [Github](htttps://github.com/danielrosehill) as a notepad to share documentation, notes, and experiments. 
+I use [Github](htttps://github.com/danielrosehill) as a notepad to share documentation, notes, and experiments.
 
 Recently, I set up a website to house it:
 
 [![Docs Website](https://img.shields.io/badge/Docs_Website-docs.bydanielrosehill.com-blue)](https://docs.bydanielrosehill.com)
 
-A list of some of the repositories contained is here:
+## All Repositories (Alphabetical)
 
-## Large Language Models (LLMs)
+### A
 
-### General
+**A Few ADKs**
+Point in time listing of a few ADKs (agent development kits)
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/A-Few-ADKs)
 
-[Custom Agent Configurations](https://docs.bydanielrosehill.com/repos/llms-and-ai/custom-agents/)
+**AI Friendly Badge**
+Idea and badge - AI friendly footer
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Friendly-Badge)
 
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/custom-agents/) 
-
-### Exploration, Research, Experiments
-
-[Evaluation Prompts](https://docs.bydanielrosehill.com/repos/llms-and-ai/eval-prompts/)
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/eval-prompts/)
-
-[API Pricing / Cost Management](https://docs.bydanielrosehill.com/repos/llms-and-ai/api-prices/)    
-
+**API Pricing / Cost Management**
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/api-prices/)
 
-[LLMs on LLMs](https://docs.bydanielrosehill.com/repos/llms-and-ai/llms-on-llms/)  
+### B
 
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/llms-on-llms/)
+**Back Up Your SaaS**
+Updated SaaS backup documentation and notes
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Back-Up-Your-SaaS)
 
-[Use-Case Self-Ideation](https://docs.bydanielrosehill.com/repos/llms-and-ai/use-case-self-ideation/)    
+**Bug Reports Public**
+Bug Reports
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Bug-Reports-Public)
 
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/use-case-self-ideation/)
+### C
 
-### LLM Professional Workflow: Notes, Scaffolds
+**Career Data AI Context Repo**
+Career Data (sample context repo)
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Career-Data-AI-Context-Repo)
 
-[LLM & Prompt Engineering Workflow](https://docs.bydanielrosehill.com/repos/llms-and-ai/llm-workflow/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/llm-workflow/)
-
-[LLM Knowledge Management Project](https://docs.bydanielrosehill.com/repos/project-notes/llm-km/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/project-notes/llm-km/)
-
-### Mapping: Resources, Community & Ecosystem
-
-[Prompt Libraries (List Of)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-libraries/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-libraries/)
-
-[Prompt Eng Resources](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-eng-resources/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-eng-resources/)
-
-### Mapping: Tools, Frameworks
-
-[Obsidian AI Tools](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)
-
-[!VS Code LLM Tools](https://github.com/danielrosehill/VS-Code-LLM-Tools)      
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://github.com/danielrosehill/VS-Code-LLM-Tools)
-
-### Prompt Management, Prompt Engineering
-
-[Prompt Library](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/)
-
-[Prompt Libraries (List Of)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-libraries/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-libraries/)
-
-[Principles of Prompting](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompting-principles/)  
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompting-principles/)
-
-## Data Analysis and Visualisation
-
-[Data Notebook](https://docs.bydanielrosehill.com/repos/data-projects/notebook/)  
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/data-projects/notebook/)
-
-## Writing & Thoughts
-
-[Thoughts On Tech](https://docs.bydanielrosehill.com/repos/blogs/thought-on-tech/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/blogs/thought-on-tech/)
-
-[Principles Of Prompting](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompting-principles/)    
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompting-principles/)
-
-## Notepads
-
-[Projects (List)](https://docs.bydanielrosehill.com/repos/project-notes/list/)  
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/project-notes/list/)
-
-[Gists](https://docs.bydanielrosehill.com/repos/notepads/gists/)  
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/gists/)
-
-[Ideas](https://docs.bydanielrosehill.com/repos/notepads/ideas/) 
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/ideas/)
-
-[Tech Stack](https://docs.bydanielrosehill.com/repos/misc/tech-stack/)  
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/tech-stack/)
-
-[General Thoughts On Life](https://docs.bydanielrosehill.com/repos/misc/daniel-on/)  
-
-[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/daniel-on/)
-
-## Other Docs
-
-
-[Changelog](https://docs.bydanielrosehill.com/repos/misc/changelog/)  
-
+**Changelog**
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/changelog/)
 
-[Docs Templates](https://docs.bydanielrosehill.com/repos/documentation/doc-templates/)  
+**Claude Code Context Feature Requests**
+Claude Code feature requests
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Claude-Code-Context-Feature-Requests)
 
+**Code Tutor Agent Model**
+Model for using code gen assistants as code tutors that also code stuff
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Code-Tutor-Agent-Model)
+
+**Custom Agent Configurations**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/custom-agents/)
+
+### D
+
+**Data Notebook**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/data-projects/notebook/)
+
+**Docs Templates**
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/documentation/doc-templates/)
+
+### E
+
+**Evaluation Prompts**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/eval-prompts/)
+
+### G
+
+**General Thoughts On Life**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/daniel-on/)
+
+**Gists**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/gists/)
+
+**Github AI Searches**
+Github AI Searches
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-AI-Searches)
+
+**Great AI Convos**
+Reference AI Conversations
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Great-AI-Convos)
+
+**Green Invoice API My Notes**
+Green Invoice API
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Green-Invoice-API-My-Notes)
+
+### H
+
+**Hebrew LLMs**
+Hebrew Language LLMs
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Hebrew-LLMs)
+
+**Home Assistant Starter List**
+Home Assistant starter list
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Home-Assistant-Starter-List)
+
+**How I Use Github FYI**
+Notes about how I use GitHub
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-I-Use-Github-FYI)
+
+**How The CLI Planning Doc**
+How The CLI Notes
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-The-CLI-Planning-Doc)
+
+### I
+
+**Ideas**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/ideas/)
+
+**Israel News RSS Feeds**
+Israel News RSS Feeds (List)
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Israel-News-RSS-Feeds)
+
+**Israel Red Alert Syntax Notes**
+IDF Home Front Command Red Alert syntax
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Israel-Red-Alert-Syntax-Notes)
+
+### K
+
+**Keyboard Shortcuts Ref**
+Keyboard Shortcuts / Ref
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Keyboard-Shortcuts-Ref)
+
+**KScreen Config Scripts And Docs**
+Kscreen Config
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/KScreen-Config-Scripts-And-Docs)
+
+### L
+
+**LLM & Prompt Engineering Workflow**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/llm-workflow/)
+
+**LLM Knowledge Management Project**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/project-notes/llm-km/)
+
+**LLM Preferences Guide**
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/LLM-Preferences-Guide)
+
+**LLMs on LLMs**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/llms-on-llms/)
+
+**Linux Macropad Planning**
+Linux macropad planning notes
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Linux-Macropad-Planning)
+
+**Local AI Agent Planning Notes**
+Local AI planning notes
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Local-AI-Agent-Planning-Notes)
+
+### M
+
+**MCP Server Ideas**
+MCP Server ideas
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/MCP-Server-Ideas)
+
+### N
+
+**Nuclino API Docs (Unofficial)**
+Nuclino API Docs (unofficial)
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Nuclino-API-Docs-Unofficial)
+
+### O
+
+**Obsidian AI Tools**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/lists/obsidian-ai-tools/)
+
+### P
+
+**Personal Dashboard Project**
+Personal Dashboard Project Notes
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Personal-Dashboard-Project)
+
+**Principles of Prompting**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompting-principles/)
+
+**Projects (List)**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/project-notes/list/)
+
+**Prompt Eng Resources**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-eng-resources/)
+
+**Prompt Libraries (List Of)**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-libraries/)
+
+**Prompt Library**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/prompt-library/)
+
+### S
+
+**STT Fine Tune Project Outline**
+STT Fine Tune
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/STT-Fine-Tune-Project-Outline)
+
+### T
+
+**Tech Searches**
+Tech stack prompts
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Tech-Searches)
+
+**Tech Stack**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/tech-stack/)
+
+**Tech Stack (Repo)**
+Tech Stack
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Tech-Stack)
+
+**Thoughts On Tech**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/blogs/thought-on-tech/)
+
+### U
+
+**Use-Case Self-Ideation**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/use-case-self-ideation/)
+
+**Useful ISO Standards Reference**
+Useful ISO standards
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Useful-ISO-Standards-Reference)
+
+### V
+
+**Vibe Code And Learn**
+Model for using code gen assistants as code tutors that also code stuff
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Vibe-Code-And-Learn)
+
+**Vibe Coded Disclosure**
+Add a vibe coding disclosure to repos
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Vibe-Coded-Disclosure)
+
+**VS Code LLM Tools**
+[![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://github.com/danielrosehill/VS-Code-LLM-Tools)
+
+### W
+
+**WAQI Stations in Israel**
+WAQI Stations in Israel
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/WAQI-Stations-In-Israel)
+
+**Workstation Specs**
+Workstation specs
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Workstation-Specs)
 
 ---
 
