@@ -86,11 +86,27 @@ Model for using code gen assistants as code tutors that also code stuff
 
 ---
 
+## Context Waterfall Architecture Notes
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes)
+
+Context Waterfall Architecture Notes
+
+---
+
 ## Custom Agent Configurations
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/custom-agents/)
 
 Custom Agent Configurations documentation
+
+---
+
+## Daniels Take On
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Daniels-Take-On)
+
+Daniels Take On
 
 ---
 
@@ -118,6 +134,14 @@ Evaluation Prompts documentation
 
 ---
 
+## Feature Ideas And Requests
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Feature-Ideas-And-Requests)
+
+Feature Ideas And Requests
+
+---
+
 ## General Thoughts On Life
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/misc/daniel-on/)
@@ -134,11 +158,43 @@ Gists documentation
 
 ---
 
+## Gmail Search Strings
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Gmail-Search-Strings)
+
+Gmail Search Strings
+
+---
+
 ## Github AI Searches
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-AI-Searches)
 
 Github AI Searches
+
+---
+
+## Github Ideas And FRs
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-Ideas-And-FRs)
+
+Github Ideas And FRs
+
+---
+
+## Github Notation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-Notation)
+
+Github Notation
+
+---
+
+## Github Optimisation
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Github-Optimisation)
+
+Github Optimisation
 
 ---
 
@@ -158,6 +214,14 @@ Green Invoice API
 
 ---
 
+## GVFD Derivative Docs
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/GVFD-Derivative-Docs)
+
+GVFD Derivative Docs
+
+---
+
 ## Hebrew LLMs
 
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Hebrew-LLMs)
@@ -171,6 +235,14 @@ Hebrew Language LLMs
 [![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Home-Assistant-Starter-List)
 
 Home Assistant starter list
+
+---
+
+## Homebox Ideas
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Homebox-Ideas)
+
+Homebox Ideas
 
 ---
 
@@ -190,11 +262,27 @@ How The CLI Notes
 
 ---
 
+## How To Guides
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/How-To-Guides)
+
+How To Guides
+
+---
+
 ## Ideas
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/notepads/ideas/)
 
 Ideas documentation
+
+---
+
+## Interesting Tech Things
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/Interesting-Tech-Things)
+
+Interesting Tech Things
 
 ---
 
