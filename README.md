@@ -30,6 +30,14 @@ Idea and badge - AI friendly footer
 
 ---
 
+## AI Agent Workspace Spec
+
+[![View Repo](https://img.shields.io/badge/View_Repo-blue)](https://github.com/danielrosehill/AI-Agent-Workspace-Spec-310325)
+
+Description of my current AI "agent" workspace, challenges, plans
+
+---
+
 ## API Pricing / Cost Management
 
 [![View Docs](https://img.shields.io/badge/View_Docs-blue)](https://docs.bydanielrosehill.com/repos/llms-and-ai/api-prices/)
